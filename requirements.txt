@@ -1,3 +1,5 @@
+yfinance
 jupyter
 pandas
 matplotlib
+sklearn
